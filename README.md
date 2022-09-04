@@ -1,0 +1,2 @@
+# ActionClassifier
+This was a project inspired by one of my favorite Data Science YouTubers Nicholas Renotte. This project exposed me to Neural Networks and collecting my own data with OS file manipulation. A complete end to end project that taught me a lot and improved my confidence as a growing data scientist. This is also a lot of what I worked on at my internship and will include a couple slide I did presenting to the CEO of the company.
